@@ -1,7 +1,7 @@
 url: https://github.com/AshenJyy/dsh-subagent-antigravity
 name: AshenJyy/dsh-subagent-antigravity
-tarball: https://github.com/AshenJyy/dsh-subagent-antigravity/releases/download/v0.1.0/ashenjyy-dsh-subagent-antigravity-0.1.0.tgz
+tarball: https://github.com/AshenJyy/dsh-subagent-antigravity/releases/download/v0.2.0/ashenjyy-dsh-subagent-antigravity-0.2.0.tgz
 category: tools
 description:
-  en: 'Delegates one-shot text tasks to the official Antigravity ACP runtime through the subagent_antigravity tool, with optional model and thinking-level configuration for DeepSeek Harness 0.2.1-rc.3; requires Agent Platform ADC setup.'
-  zh: '通过 subagent_antigravity 工具将一次性文本任务委派给 Google 官方 Antigravity ACP 运行时，可配置模型和思考强度，兼容 DeepSeek Harness 0.2.1-rc.3；需完成 Agent Platform ADC 配置。'
+  en: 'Delegates one-shot text tasks to the official Antigravity ACP runtime, with native authentication inheritance, selectable login methods, and optional model and thinking-level configuration for DeepSeek Harness 0.2.1-rc.3.'
+  zh: '将一次性文本任务委派给 Google 官方 Antigravity ACP 运行时，支持继承原生认证、选择登录方式及配置模型和思考强度，兼容 DeepSeek Harness 0.2.1-rc.3。'
